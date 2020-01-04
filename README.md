@@ -10,4 +10,4 @@ A simple first person rigidbody controller for the Godot game engine, based on t
 
 #### Acknowledgements:
 - Thanks to the amazing Godot contributors for their great documentation.
-- Thanks to Jeremy Bullock for good introductory tutorials to Godot: https://www.youtube.com/channel/UCwJw2-V5S1TkBjLQ3_Ws54g/videos
+- Thanks to [Jeremy Bullock](https://www.youtube.com/channel/UCwJw2-V5S1TkBjLQ3_Ws54g/videos) for good introductory tutorials to Godot.
